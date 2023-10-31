@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Dark Coda",
+    "level": {
+      "min": 5,
+      "max": 15
+    },
+    "reward": {
+      "first": "Stem",
+      "second": "Braided Hemp"
+    },
+    "town": ["Gludio", "Oren", "Schuttgart"]
+  },
+  {
+    "name": "Red Coda",
+    "level": {
+      "min": 8,
+      "max": 18
+    },
+    "reward": {
+      "first": "Varnish",
+      "second": "Cokes"
+    },
+    "town": ["Gludio", "Oren", "Schuttgart"]
+  },
+  {
+    "name": "Chilly Coda",
+    "level": {
+      "min": 11,
+      "max": 21
+    },
+    "reward": {
+      "first": "Suede",
+      "second": "Oriharukon Ore"
+    },
+    "town": ["Gludio", "Oren", "Schuttgart"]
+  },
+  {
+    "name": "Blue Coda",
+    "level": {
+      "min": 14,
+      "max": 24
+    },
+    "reward": {
+      "first": "Animal Skin",
+      "second": "Crafted Leather"
+    },
+    "town": ["Gludio", "Dion", "Oren", "Schuttgart"]
+  },
+  {
+    "name": "Golden Coda",
+    "level": {
+      "min": 17,
+      "max": 27
+    },
+    "reward": {
+      "first": "Thread",
+      "second": "Mithril Ore"
+    },
+    "town": ["Gludio", "Dion", "Oren", "Schuttgart"]
+  },
+  {
+    "name": "Lute Coda",
+    "level": {
+      "min": 20,
+      "max": 30
+    },
+    "reward": {
+      "first": "Iron Ore",
+      "second": "Metallic Fiber"
+    },
+    "town": ["Gludio", "Dion", "Schuttgart"]
+  },
+  {
+    "name": "Desert Coda",
+    "level": {
+      "min": 23,
+      "max": 33
+    },
+    "reward": {
+      "first": "Coal",
+      "second": "Adamantite Nugget"
+    },
+    "town": ["Gludio", "Dion", "Schuttgart"]
+  },
+  {
+    "name": "Red Cobol",
+    "level": {
+      "min": 26,
+      "max": 36
+    },
+    "reward": {
+      "first": "Charcoal",
+      "second": "Enria"
+    },
+    "town": ["Gludio", "Dion", "Giran", "Oren", "Schuttgart"]
+  },
+  {
+    "name": "Chilly Cobol",
+    "level": {
+      "min": 29,
+      "max": 39
+    },
+    "reward": {
+      "first": "Animal Bone",
+      "second": "Steel"
+    },
+    "town": ["Gludio", "Dion", "Giran", "Oren", "Heine", "Schuttgart"]
+  },
+  {
+    "name": "Blue Cobol",
+    "level": {
+      "min": 32,
+      "max": 42
+    },
+    "reward": {
+      "first": "Silver Nugget",
+      "second": "Thons"
+    },
+    "town": ["Gludio", "Dion", "Giran", "Oren", "Heine", "Schuttgart"]
+  },
+  {
+    "name": "Thorn Cobol",
+    "level": {
+      "min": 35,
+      "max": 45
+    },
+    "reward": {
+      "first": "Stem",
+      "second": "Metallic Thread"
+    },
+    "town": ["Dion", "Giran", "Oren", "Aden", "Heine", "Schuttgart"]
+  },
+  {
+    "name": "Golden Cobol",
+    "level": {
+      "min": 38,
+      "max": 48
+    },
+    "reward": {
+      "first": "Varnish",
+      "second": "Mold Glue"
+    },
+    "town": ["Dion", "Giran", "Oren", "Aden", "Heine", "Schuttgart"]
+  },
+  {
+    "name": "Great Cobol",
+    "level": {
+      "min": 41,
+      "max": 51
+    },
+    "reward": {
+      "first": "Suede",
+      "second": "High Grade Suede"
+    },
+    "town": ["Dion", "Giran", "Oren", "Aden", "Heine", "Schuttgart"]
+  },
+  {
+    "name": "Red Codran",
+    "level": { "min": 44, "max": 54 },
+    "reward": { "first": "Animal Skin", "second": "Asofe" },
+    "town": ["Dion", "Giran", "Oren", "Aden", "Heine", "Schuttgart"]
+  },
+  {
+    "name": "Sea Codran",
+    "level": {
+      "min": 45,
+      "max": 55
+    },
+    "reward": {
+      "first": "Thread",
+      "second": "Metallic Thread"
+    },
+    "town": ["Dion", "Giran", "Oren", "Aden", "Heine", "Schuttgart"]
+  },
+  {
+    "name": "Chilly Codran",
+    "level": {
+      "min": 47,
+      "max": 57
+    },
+    "reward": {
+      "first": "Iron Ore",
+      "second": "Mold Hardener"
+    },
+    "town": ["Gludio", "Giran", "Oren", "Aden", "Schuttgart"]
+  },
+  {
+    "name": "Blue Codran",
+    "level": {
+      "min": 50,
+      "max": 60
+    },
+    "reward": {
+      "first": "Coal",
+      "second": "Leather"
+    },
+    "town": ["Gludio", "Giran", "Oren", "Aden", "Schuttgart"]
+  },
+  {
+    "name": "Twin Codran",
+    "level": {
+      "min": 53,
+      "max": 63
+    },
+    "reward": {
+      "first": "Charcoal",
+      "second": "Mold Lubricant"
+    },
+    "town": ["Gludio", "Giran", "Oren", "Aden", "Rune", "Schuttgart"]
+  },
+  {
+    "name": "Great Codran",
+    "level": {
+      "min": 56,
+      "max": 66
+    },
+    "reward": {
+      "first": "Animal Bone",
+      "second": "Coarse Bone Powder"
+    },
+    "town": ["Gludio", "Giran", "Aden", "Rune"]
+  },
+  {
+    "name": "Desert Codran",
+    "level": { "min": 61, "max": 71 },
+    "reward": { "first": "Silver Nugget", "second": "Durable Metal Plate" },
+    "town": ["Gludio", "Giran", "Aden", "Goddard", "Rune"]
+  },
+  {
+    "name": "Blue Coba",
+    "level": {
+      "min": 62,
+      "max": 72
+    },
+    "reward": {
+      "first": "Crafted Leather",
+      "second": "Mold Glue"
+    },
+    "town": ["Gludio", "Giran", "Aden", "Goddard", "Rune"]
+  },
+  {
+    "name": "Red Coba",
+    "level": {
+      "min": 65,
+      "max": 75
+    },
+    "reward": {
+      "first": "Synthetic Cokes",
+      "second": "Mold Lubricant"
+    },
+    "town": ["Giran", "Aden", "Heine", "Goddard", "Rune"]
+  },
+  {
+    "name": "Gold Coba",
+    "level": {
+      "min": 68,
+      "max": 78
+    },
+    "reward": {
+      "first": "Varnish of Purity",
+      "second": "Mold Hardener"
+    },
+    "town": ["Giran", "Oren", "Aden", "Heine", "Goddard", "Rune"]
+  },
+  {
+    "name": "Desert Coba",
+    "level": {
+      "min": 71,
+      "max": 81
+    },
+    "reward": {
+      "first": "Asofe",
+      "second": "Mithril Alloy"
+    },
+    "town": ["Oren", "Aden", "Heine", "Goddard", "Rune"]
+  },
+  {
+    "name": "Sea Coba",
+    "level": {
+      "min": 74,
+      "max": 84
+    },
+    "reward": {
+      "first": "Thons",
+      "second": "Enria"
+    },
+    "town": ["Oren", "Aden", "Goddard", "Rune"]
+  },
+  {
+    "name": "Twin Coba",
+    "level": {
+      "min": 77,
+      "max": 87
+    },
+    "reward": {
+      "first": "High Grade Suede",
+      "second": "Oriharukon"
+    },
+    "town": ["Goddard", "Rune"]
+  },
+  {
+    "name": "King Coba",
+    "level": {
+      "min": 80,
+      "max": 90
+    },
+    "reward": {
+      "first": "Metallic Thread",
+      "second": "Durable Metal Plate"
+    },
+    "town": ["Goddard", "Rune"]
+  }
+]
